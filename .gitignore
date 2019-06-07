@@ -15,8 +15,7 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
-x86/
+
 bld/
 [Bb]in/
 [Oo]bj/
@@ -235,3 +234,8 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 *.exe
+
+# Axo Cover
+.axoCover
+src/lib/
+*.pyc
